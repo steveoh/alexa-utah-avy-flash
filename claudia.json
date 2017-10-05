@@ -1,0 +1,11 @@
+{
+  "lambda": {
+    "role": "alexa-utah-avy-flash-executor",
+    "name": "alexa-utah-avy-flash",
+    "region": "us-east-1"
+  },
+  "api": {
+    "id": "61xjgv8ex4",
+    "module": "index"
+  }
+}
